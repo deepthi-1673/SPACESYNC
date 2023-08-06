@@ -1,0 +1,113 @@
+[
+    {
+        "id":1,
+        "provider":{"name":"Skyroot"},
+        "category":{"id":1,"name":"Agency"},
+        "weight":250,
+        "from":{
+            "planet":" "
+        },
+        "featured_image":"/img/products/Skyroot.png",
+        "@click":"select1",
+        "title":" ",
+        "description":"OPENING SPACE FOR ALL",
+        "currency":"USD",
+        "URI":"SKYROOT: https://skyroot.in/",
+        "price": 68000000,
+        "v1": "VIKRAM S | 80-Kg to 100KM ALTITUDE",
+        "v2": "VIKRAM I | 480-Kg to 500KM ALTITUDE",
+        "v3": "VIKRAM II | 595-Kg to 500KM ALTITUDE",
+        "v4": "VIKRAM III | 815-Kg to 500KM ALTITUDE",
+        "content":"As Earth to Space transportation remains expensive, access to Space has been limited to very few governments and enterprises. Yet Space has transformed our lives for decades through GPS, Satellite internet and television, weather prediction, disaster response, understanding the universe, and many others.At Skyroot, we are on a mission to open Space for all, by pushing the boundaries of today's technology. We are working towards a future where Space becomes part of our lives, and such a transition will transform humankind like never before. "
+
+
+    },
+    {
+        "id":2,
+        "provider":{"name":"Agnikul"},
+        "category":{"id":2,"name":"Agency"},
+        "weight":300,
+        "from":{
+            "planet":" "
+        },
+        "featured_image":"/img/products/agnikul.png",
+        "title":" ",
+        "description":"Bringing Space Within Everyone's Reach",
+        "currency":"USD",
+        "URI":"AGNIKUL: https://agnikul.in/#/",
+        "price":1100000,
+        "v1":"AGNIBAAN | 100KG to 700KM",
+        "content":"Agnibaan is a customizable vehicle. When we were at the drawing board, we carefully analyzed what our customers really needed. We then engineered enough flexibility into the vehicle while carefully designing to ensure reliability. Removing a few engines and flying is more involved than it sounds. We had to ensure vehicle controllability, stability, lift off thrust-to-weight ratio (& many other parameters) made sense for each of these versions. (“Agnibaan” is a Sanksrit word that translates to mean “an arrow of fire”.)"
+    },
+    {
+        "id":3,
+        "provider":{"name":"Pixel Space"},
+        "category":{"id":3,"name":"Agency"},
+        "weight":300,
+        "from":{
+            "planet":" "
+        },
+        "featured_image":"/img/products/pixel.png",
+        "title":" ",
+        "description":"THE RIGHT MIX OF PASSION AND EXPERIENCE",
+        "currency":"USD",
+        "URI":"PIXEL SPACE: https://www.pixxel.space/",
+        "price":2300000,
+        "v1": "Hyperspectral imaging (HSI) ",
+        "v2": "Multi-dimensional visualisation of satellite data across spatial and temporal dimensions",
+        "content":"Pixxel's hyperspectral imaging satellites are uniquely designed to beam down data in hundreds of wavelengths to detect problems that are invisible to today's satellites. The constellation is designed to provide global coverage at a revisit of every 24 hours.”.)"
+    },
+    {
+        "id":4,
+        "provider":{"name":"Dhruva Space"},
+        "category":{"id":4,"name":"Agency"},
+        "weight":300,
+        "from":{
+            "planet":" "
+        },
+        "featured_image":"/img/products/dhruva.png",
+        "title":" ",
+        "description":"DIVERSE PAYLOADS | DISTINCT SPACE MISSIONS",
+        "currency":"USD",
+        "URI":"DHRUVA SPACE: https://www.dhruvaspace.com/",
+        "price":220000000,
+        "v1": "P-DoT | CUBESAT",
+        "v2": "P 30 | NANO SAT",
+        "v3": "P 90 | MICRO SAT",
+        "content":"Dhruva Space Private Limited is a National Award-winning space technology company focused on building full-stack space engineering solutions. The company is based out of Hyderabad, India, and is actively building application-agnostic satellite platforms. Dhruva Space offers Satellites coupled with Earth stations and Launch services as an integrated solution or individually as a technology solution to power Space-based applications, on Earth and beyond. The founding team are business & technology leaders, who formerly worked with Exseed Space, ams AG, Cisco, and KPMG. The whole team sees close to 60 members, from a variety of backgrounds: engineering, business development, research, marketing, legal, and more."
+    },
+    {
+        "id":5,
+        "provider":{"name":"Bellatrix"},
+        "category":{"id":5,"name":"Agency"},
+        "weight":300,
+        "from":{
+            "planet":" "
+        },
+        "featured_image":"/img/products/dellatrix.png",
+        "title":" ",
+        "description":"IMAGINEERING THE BEST FIT FOR YOUR MISSION.",
+        "currency":"USD",
+        "URI":"Bellatrix: https://bellatrixaerospace.netlify.app/",
+        "price":8000000,
+        "v1":"COTS, Radiation tolerant and RAD Hardened PPCU variants.",
+        "content":"With growing number of satellites and impetus on sustainable space, lot of promising technologies are gaining importance. We are working towards building this future - Rocket Propulsion, Reusability, High Power Electric Propulsion, Water Propulsion for in-situ resource utilization, Propulsion for Space Tugs, Space Debris Mitigation, Green Propulsion, Propulsion for Man rated missions, Lunar deployments and systems for refueling operations. The list keeps updating!"
+    },
+    {
+        "id":6,
+        "provider":{"name":"Astrogate"},
+        "category":{"id":6,"name":"Agency"},
+        "weight":300,
+        "from":{
+            "planet":" "
+        },
+        "featured_image":"/img/products/astrogate.png",
+        "title":" ",
+        "description":"COMMUNICATION FOR YOUR SPACE ASSETS",
+        "currency":"USD",
+        "URI":"Astrogate: https://astrogatelabs.com/",
+        "price":200000,
+        "v1":"ASTRO-LINK | Fully integrated laser communication solution offering 1 Gbps satellite-to-ground communications",
+        "content":"We are enabling high-speed communications for small-satellites with our laser communication solutions designed to meet the harsh conditions for space applications. Our mature technology and laser-comm. products in a SWaP (size, weight and power) compatible for cube/nanosats allows for a secure, long-distance wireless communications in space-to-ground and space-to-space links."
+    }
+]

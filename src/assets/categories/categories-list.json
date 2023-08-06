@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "name":"Agency"
+    },
+    {
+        "id":2,
+        "name":"Pencils"
+    },
+    {
+        "id":3,
+        "name":"Suits"
+    },
+    {
+        "id":4,
+        "name":"Minerals"
+    }
+]
